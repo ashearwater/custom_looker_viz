@@ -1,4 +1,4 @@
-/ Funnel — Inside Labels (Looker Custom Visualization)
+// Funnel — Inside Labels (Looker Custom Visualization)
 // Works with: 1 dimension (funnel stage) + 1 measure (value)
 // Labels are rendered inside each trapezoid step, using Looker's own formatting.
 
